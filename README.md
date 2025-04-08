@@ -1,4 +1,12 @@
-## Hi there 👋
+# 안녕하세요 !
+
+## 학교 🖥️
+영남대학교 컴퓨터공학전공
+
+## I'm currently learing...
+Python
+C
+C++
 
 <!--
 **yun-15/yun-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
