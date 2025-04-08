@@ -1,9 +1,9 @@
 ## 안녕하세요 !
 
-## 학교 🖥️
-"영남대학교 컴퓨터공학전공"
+## 학교 🏫
+**영남대학교 컴퓨터공학전공**
 
-## I'm currently learing...
+## I'm currently learing... 🖥️
 Python
 C
 C++
