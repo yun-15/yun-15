@@ -3,7 +3,7 @@
 ## 학교 🏫
 영남대학교 컴퓨터공학전공
 
-## I'm currently learing... 🖥️
+## 공부중인 프로그래밍 언어 🖥️
 Python
 C
 C++
