@@ -8,6 +8,8 @@ Python
 C
 C++
 
+## 이메일
+yunalley@naver.com
 <!--
 **yun-15/yun-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
